@@ -1,5 +1,5 @@
 
-# Can a Statistician make a smooth transition to Data Scientist?
+# <font color=blue> Can a Statistician make a smooth transition to Data Scientist? </font>
 Since finishing my doctoral degree in biostatistics in 2015, I have wanted to transition from traditional statistics and data analysis to become a data scientist working for a top company. For many reasons, I felt that my skills and toolkit were already outmoded in this era where data has become like currency. Additionally, I wanted to broaden the scope of my work beyond public health There are many articles that highlight similarities and differences between the two titles. For me, I think the gap is efficient programming skills and working with messier and less predictable data. Arguably, some statisticians do have these skills, but during my own traning
 
 According to my [Mango Data Science Radar](https://www.mango-solutions.com/radar/), I am not as much of a Data Wrangler, as I am an effective Modeller and Communicator. I don't necessarily agree, as I have wrangled with my fair share of structured and unstructured data. However, I recognize that I could benefit from more experience in this area. 
@@ -25,7 +25,7 @@ While the majority of Fellows studied or work in the US, about 12% of Fellows wo
 
 My dataset includes a field that describes Fellows' capstone projects. As a crude analysis, I created a word cloud from these descriptions. Most Fellows created projects that were used public data sources to find information, discover insights, make predictions, or make recommendations. This gives me ideas on potential projects that I can build. For instance, this analysis might prove helpful to the Insight Data Science team to confirm or refute assumptions about their Fellow network and to recruit future Fellows. 
 
-
+![projects_wordcloud_updated](https://user-images.githubusercontent.com/7207786/34637619-0f3589be-f288-11e7-9779-48332b2d16bd.png)
 
 ### Where Fellows are Hired
 The majority of Fellows are hired under a title that includes the phrase "Data Scientist". In some cases, Fellows are hired into roles that appear to have seniority, including terms like "Senior" or "Director" in their title.
@@ -43,5 +43,7 @@ I have identified some unstructured data on Fellows from other programs that I h
 I went into this endeavor seeking to learn more about data science career training programs to find the right one for me. 
 
 I learned a lot about data scraping, and discovered some instances where it may not be appropriate to scrape data. 
+
+There remains a lot more work to be done to discover additional insights into this interesting program.
 
 Doing this work has significantly improved my Python programming skills, and challenged me to craft a compelling story. 
