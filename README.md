@@ -18,7 +18,7 @@ Most fellows studied non-statistical fields in their graduate study. Most freque
 
 A large percentage of Fellows studied at either Stanford University or the University of California, Berkeley; this makes sense given the program's origins in the San Francisco area as well as the high number of companies hiring data scientists in this geographical area. Other popular institutions are listed below.
 
-INSERT TOP SCHOOLS GRAPH
+![top_fellow_schools](https://user-images.githubusercontent.com/7207786/35619321-a5613f42-064b-11e8-8bc9-8f4e4cc15360.png)
 
 ### Fellow Locations
 About 87% of Fellows studied or worked in the US, with 42% of all Fellows originating from a school or company in California. This makes sense, as many of the leading tech/data companies that demand data scientists are located in California. 
@@ -34,7 +34,7 @@ My dataset includes a field that describes Fellows' capstone projects. As a crud
 ### Where Fellows are Hired
 The majority of Fellows are hired under a title that includes the phrase "Data Scientist". In some cases, Fellows are hired into roles that appear to have seniority, including terms like "Senior" or "Director" in their title.
 
-INSERT TOP HIRING COMPANIES
+![top_hiring_companies](https://user-images.githubusercontent.com/7207786/35619326-a94dfbf4-064b-11e8-9eee-5aaa3a918cf6.png)
 
 Thus far, Facebook has hired the most Fellows from Insight Data Science, followed by LinkedIn and Stitch Fix. The program itself has hired several Fellows to work in various capacities. 
 
