@@ -34,9 +34,11 @@ My dataset includes a field that describes Fellows' capstone projects. As a crud
 ### Where Fellows are Hired
 The majority of Fellows are hired under a title that includes the phrase "Data Scientist". In some cases, Fellows are hired into roles that appear to have seniority, including terms like "Senior" or "Director" in their title.
 
-![top_hiring_companies](https://user-images.githubusercontent.com/7207786/35619326-a94dfbf4-064b-11e8-9eee-5aaa3a918cf6.png)
+![top_fellow_titles](https://user-images.githubusercontent.com/7207786/35619528-53e78972-064c-11e8-9510-3b0447d88fc5.png)
 
 Thus far, Facebook has hired the most Fellows from Insight Data Science, followed by LinkedIn and Stitch Fix. The program itself has hired several Fellows to work in various capacities. 
+
+![top_hiring_companies](https://user-images.githubusercontent.com/7207786/35619326-a94dfbf4-064b-11e8-9eee-5aaa3a918cf6.png)
 
 ## Future Work
 * Cross-variable analyses to see if certain Fellows are more likely to end up being hired by particular companies. 
