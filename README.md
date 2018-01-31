@@ -16,6 +16,10 @@ Most fellows studied non-statistical fields in their graduate study. Most freque
 
 ![image](https://user-images.githubusercontent.com/7207786/34637116-a04f3212-f27c-11e7-95fe-beb08e82b63a.png)
 
+A large percentage of Fellows studied at either Stanford University or the University of California, Berkeley; this makes sense given the program's origins in the San Francisco area as well as the high number of companies hiring data scientists in this geographical area. Other popular institutions are listed below.
+
+INSERT TOP SCHOOLS GRAPH
+
 ### Fellow Locations
 About 87% of Fellows studied or worked in the US, with 42% of all Fellows originating from a school or company in California. This makes sense, as many of the leading tech/data companies that demand data scientists are located in California. 
 
@@ -30,20 +34,16 @@ My dataset includes a field that describes Fellows' capstone projects. As a crud
 ### Where Fellows are Hired
 The majority of Fellows are hired under a title that includes the phrase "Data Scientist". In some cases, Fellows are hired into roles that appear to have seniority, including terms like "Senior" or "Director" in their title.
 
-Thus far, Facebook has hired the most Fellows from Insight Data Science, followed by Stitch Fix and LinkedIn. The program itself has hired several Fellows to work in various capacities. 
+INSERT TOP HIRING COMPANIES
+
+Thus far, Facebook has hired the most Fellows from Insight Data Science, followed by LinkedIn and Stitch Fix. The program itself has hired several Fellows to work in various capacities. 
 
 ## Future Work
-Cross-variable analyses to see if certain Fellows are more likely to end up being hired by particular companies. 
+* Cross-variable analyses to see if certain Fellows are more likely to end up being hired by particular companies. 
 
-Deeper text analysis on project titles and descriptions. 
+* Deeper text analysis on project titles and descriptions. 
 
-I have identified some unstructured data on Fellows from other programs that I hope to compare and combine with these data. I hope to use this information to help other prospective data scientists compare programs and 
+* I have identified some unstructured data on Fellows from other accelerator programs that I hope to compare and combine with these data. I hope to use this information to help other prospective data scientists compare and contrast programs. 
 
 ## Final Thoughts
-I went into this endeavor seeking to learn more about data science career training programs to find the right one for me. 
-
-I learned a lot about data scraping, and discovered some instances where it may not be appropriate to scrape data. 
-
-There remains a lot more work to be done to discover additional insights into this interesting program.
-
-Doing this work has significantly improved my Python programming skills, and challenged me to craft a compelling story. 
+I went into this endeavor seeking to learn more about data science career training programs to find the right one for me. In the process, I learned a lot about data scraping and discovered some instances where it may not be appropriate (or permissible) to scrape data. There remains a lot more work to be done to discover additional insights into this interesting program. Doing this work has significantly improved my Python programming skills, and challenged me to craft a compelling story. 
